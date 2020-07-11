@@ -1,4 +1,4 @@
-# hackathon
+# newhack
 
 A new Flutter application.
 
