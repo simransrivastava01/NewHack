@@ -31,7 +31,7 @@ class _MainQuizScreenState extends State<MainQuizScreen> {
 
 class QuizPage extends StatefulWidget {
   @override
-  _QuizPageState createState() => _QuizPageState();
+  _QuizPageState createState() => _QuizPageState(); 
 }
 
 class _QuizPageState extends State<QuizPage> {
